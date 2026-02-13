@@ -1,10 +1,8 @@
 {
-  "category": "UFO_UAP",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/hopkinsville-goblins",
     "maintainers": [
       {
@@ -18,433 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "hopkinsville-goblins",
     "name": "Hopkinsville Goblins",
-    "aliases": [
-      {
-        "name": "Kelly-Hopkinsville Encounter",
-        "meaning": "Named for both Kelly and Hopkinsville, Kentucky"
-      },
-      {
-        "name": "Kelly Little Men",
-        "region": "Kentucky, USA"
-      },
-      {
-        "name": "Kelly Green Men",
-        "meaning": "Early media description"
-      }
-    ],
-    "category": "UFO_UAP",
-    "subcategory": "Close Encounter / Cryptid",
+    "aliases": [],
+    "category": "|_UFO_UAP_/_CRYPTID_|",
+    "subcategory": "Description influenced later UFO reports",
     "tags": [
-      "alien-encounter",
-      "close-encounter",
-      "kentucky",
-      "1955",
-      "multiple-witnesses",
-      "unexplained",
-      "cryptid"
+      "folklore",
+      "mythology"
     ],
-    "status": "unexplained",
+    "status": "documented",
     "description": {
-      "summary": "August 21, 1955 alleged alien encounter near Kelly and Hopkinsville, Kentucky. Seven witnesses reported small, silvery humanoid creatures approaching a farmhouse over several hours. Police found no evidence but witnesses were genuinely terrified. Explanations range from great horned owls to genuine unknown encounter.",
-      "full": "The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky. Members of the Sutton and Taylor families (7+ witnesses) reported that small, 3-4 foot tall beings with large eyes, long arms, and silvery/metallic appearance approached the house after a landed craft was observed. The families shot at the creatures multiple times with firearms, but the beings seemed unaffected and continued approaching windows and the roof. The encounter lasted several hours. Police investigation found no physical evidence but witnesses were clearly terrified. The incident remains unexplained, with proposed explanations including great horned owls, mass hysteria, or genuine unknown encounter. Witnesses maintained their story for life."
+      "summary": "The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky.",
+      "full": "The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky. Members of the Sutton and Taylor families (7+ witnesses) reported that small, 3-4 foot tall beings with large eyes, long arms, and silvery/metallic appearance approached the house after a landed craft was observed. The families shot at the creatures multiple times with firearms, but the beings seemed unaffected and continued approaching windows and the roof. The encounter lasted several hours. Police investigation found no physical evidence but witnesses were clearly terrified. The incident remains **unexplained**, with proposed explanations including great horned owls, mass hysteria, or genuine unknown encounter. Witnesses maintained their story for life."
     },
     "etymology": {
-      "origin": "Named after Kelly and Hopkinsville, Kentucky, where incident occurred",
-      "meaning": "'Goblins' was media term; witnesses described them as 'little men' or 'creatures'",
-      "first_use": "1955 in newspaper coverage"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "UFO_UAP",
-      "type": "Close Encounter of the Third Kind (CE3)",
-      "subtype": "Entity encounter / Cryptid",
-      "variant": "Multiple witness, extended duration"
+      "category": "|_UFO_UAP_/_CRYPTID_|",
+      "type": "Description influenced later UFO reports",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "grey-aliens",
-        "name": "Grey Aliens",
-        "relationship": "similar_description",
-        "description": "Early description of large-eyed humanoids, predates common 'grey' archetype"
-      },
-      {
-        "id": "close-encounters",
-        "name": "Close Encounters",
-        "relationship": "category",
-        "description": "Classic CE3 case in UFO literature"
-      },
-      {
-        "id": "flatwoods-monster",
-        "name": "Flatwoods Monster",
-        "relationship": "similar_era",
-        "description": "1952 West Virginia creature encounter"
-      }
-    ]
+    "related_phenomena": []
   },
-
-  "incident": {
-    "date": {
-      "value": "1955-08-21",
-      "precision": "exact",
-      "duration": "Several hours (approximately 7 PM - 11 PM)"
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "location": {
-      "description": "Sutton farmhouse between Kelly and Hopkinsville, Kentucky",
-      "country": "United States",
-      "region": "Kentucky",
-      "locality": "Christian County, between Kelly and Hopkinsville",
-      "coordinates": {
-        "latitude": 36.8586,
-        "longitude": -87.4886,
-        "precision": "approximate"
-      },
-      "setting": "Rural farmhouse, isolated area"
-    },
-    "witnesses": {
-      "count": 7,
-      "primary": [
-        "Elmer 'Lucky' Sutton",
-        "Billy Ray Taylor",
-        "Glennie Langford (matriarch)",
-        "Various family members including children"
-      ],
-      "credibility_factors": [
-        "Multiple witnesses (7+ people)",
-        "Included adults and children",
-        "Consistent testimony",
-        "Genuinely terrified (police confirmed fear)",
-        "No apparent motive for hoax",
-        "Witnesses maintained story for life",
-        "Stable community members"
-      ]
-    },
-    "sequence_of_events": [
-      {
-        "time": "Approximately 7:00 PM",
-        "event": "Billy Ray Taylor observes bright object",
-        "description": "Taylor saw bright object land in gully behind farmhouse, reported to others"
-      },
-      {
-        "time": "Approximately 8:00 PM",
-        "event": "First creature appears",
-        "description": "Small silvery creature approaches house, Taylor and Sutton shoot at it with rifles"
-      },
-      {
-        "time": "8:00 PM - 11:00 PM",
-        "event": "Repeated approaches",
-        "description": "Creatures repeatedly approach house, appear at windows, climb on roof. Family shoots at them multiple times. Creatures seem unaffected, 'float' when shot."
-      },
-      {
-        "time": "Approximately 11:00 PM",
-        "event": "Family flees to police",
-        "description": "All family members drive to Hopkinsville police station, clearly terrified"
-      },
-      {
-        "time": "Late night",
-        "event": "Police investigation",
-        "description": "Police investigate farmhouse, find bullet holes and evidence of gunfire, but no creatures or physical evidence of beings"
-      },
-      {
-        "time": "Early morning",
-        "event": "Creatures allegedly return",
-        "description": "After police leave, witnesses report creatures returned briefly"
-      }
-    ]
-  },
-
-  "entity_description": {
-    "physical_characteristics": {
-      "height": {
-        "min": 0.9,
-        "max": 1.2,
-        "unit": "meters",
-        "description": "3-4 feet tall"
-      },
-      "appearance": [
-        {
-          "feature": "Skin/covering",
-          "description": "Silvery, metallic appearance, seemed to glow faintly"
-        },
-        {
-          "feature": "Eyes",
-          "description": "Very large, yellow or amber colored"
-        },
-        {
-          "feature": "Head",
-          "description": "Large head relative to body, somewhat pointed at top"
-        },
-        {
-          "feature": "Ears",
-          "description": "Large, pointed ears, bat-like or elephant-like"
-        },
-        {
-          "feature": "Arms",
-          "description": "Disproportionately long, extending below knees, thin"
-        },
-        {
-          "feature": "Hands",
-          "description": "Claw-like or talon-like appendages"
-        },
-        {
-          "feature": "Legs",
-          "description": "Thin, seemed to move in unusual manner"
-        },
-        {
-          "feature": "Body",
-          "description": "Thin, small torso"
-        }
-      ],
-      "coloration": "Silver/metallic, some descriptions mention greenish tinge"
-    },
+    "abilities": [],
     "behavior": {
-      "movement": [
-        "Approached house slowly",
-        "Seemed to 'float' when shot at",
-        "Climbed on roof",
-        "Peered in windows",
-        "Raised arms above head when frightened or shot"
-      ],
-      "actions": [
-        "Approached house repeatedly",
-        "No apparent hostility despite being shot at",
-        "Seemed curious about occupants",
-        "Retreated when shot, then returned",
-        "Made no attempt to enter house"
-      ],
-      "vocalizations": "No sounds reported from creatures",
-      "demeanor": "Curious but non-aggressive, persistent despite gunfire"
-    },
-    "anomalous_characteristics": [
-      "Seemed immune to gunfire (bullets passed through or had no effect)",
-      "Floated or moved in unusual manner when hit",
-      "Glowing or luminescent appearance",
-      "Movement pattern unlike known animals"
-    ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "physical": [
-      {
-        "type": "bullet holes",
-        "description": "Police found bullet holes in house and evidence of extensive gunfire",
-        "status": "confirmed",
-        "significance": "Proves guns were fired, confirms witness accounts of shooting"
-      },
-      {
-        "type": "witness_state",
-        "description": "Police confirmed witnesses were genuinely terrified, not intoxicated",
-        "status": "confirmed",
-        "significance": "Rules out hoax or alcohol-induced delusion"
-      }
-    ],
-    "lack_of_evidence": [
-      {
-        "type": "no_creatures",
-        "description": "Police found no creatures, bodies, or remains",
-        "significance": "No physical proof of entities"
-      },
-      {
-        "type": "no_tracks",
-        "description": "No unusual tracks or footprints found",
-        "significance": "No ground trace evidence"
-      },
-      {
-        "type": "no_craft",
-        "description": "No UFO or craft found in gully",
-        "significance": "Landing not verified"
-      }
-    ],
-    "witness_testimony": {
-      "consistency": "High - all witnesses told similar story",
-      "persistence": "Witnesses maintained story for rest of lives",
-      "credibility": "No apparent motive for hoax, genuine fear documented"
-    }
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
-  "investigation": {
-    "police_response": {
-      "date": "1955-08-21",
-      "officers": "Hopkinsville Police Department (multiple officers)",
-      "findings": [
-        "Bullet holes and spent shells confirmed gunfire",
-        "No creatures or remains found",
-        "No unusual tracks or physical evidence",
-        "Witnesses clearly terrified and sincere",
-        "No evidence of intoxication or drugs",
-        "No apparent hoax indicators"
-      ],
-      "conclusion": "Officers found no physical evidence of creatures but believed witnesses experienced something that terrified them"
-    },
-    "air_force_investigation": {
-      "involvement": "Project Blue Book investigated",
-      "conclusion": "Attributed to misidentification and hysteria",
-      "credibility": "Minimal investigation, dismissive approach"
-    },
-    "civilian_investigators": {
-      "investigators": "Various UFO researchers over decades",
-      "findings": "Case remains unexplained, multiple theories proposed"
-    }
-  },
-
   "theories": {
-    "extraterrestrial": [
-      {
-        "name": "Genuine alien encounter",
-        "description": "Beings were extraterrestrial visitors from landed craft",
-        "proponents": ["UFO researchers", "Some witnesses"],
-        "evidence_cited": [
-          "Initial UFO sighting",
-          "Unusual appearance of entities",
-          "Anomalous behavior (immunity to bullets)",
-          "Multiple consistent witnesses"
-        ]
-      }
-    ],
-    "natural_explanation": [
-      {
-        "name": "Great horned owls",
-        "description": "Witnesses misidentified aggressive great horned owls defending territory",
-        "proponents": ["Skeptical researcher Renaud Leclet (2006)"],
-        "evidence_cited": [
-          "Great horned owls have large eyes, can seem silvery in moonlight",
-          "Owls have ear tufts (pointed 'ears')",
-          "Owls are aggressive when defending nests",
-          "Owl talons resemble described claws",
-          "Owls are largely immune to small caliber gunfire when shot at distance",
-          "Height matches owls in flight or on fence",
-          "Nocturnal timing matches owl activity"
-        ],
-        "criticisms": [
-          "Witnesses were experienced hunters, should recognize owls",
-          "Description includes features not owl-like (silvery skin, long arms)",
-          "Duration of encounter seems long for owl confrontation",
-          "Multiple creatures reported simultaneously"
-        ]
-      }
-    ],
-    "psychological": [
-      {
-        "name": "Mass hysteria",
-        "description": "Initial misidentification escalated into shared delusion",
-        "proponents": ["Some skeptics"],
-        "evidence_cited": [
-          "Dark, stressful situation",
-          "Fear spreading among group",
-          "Expectation after initial report"
-        ],
-        "criticisms": [
-          "Witnesses included level-headed adults",
-          "Too many specific details for pure hysteria",
-          "Physical evidence of extensive gunfire"
-        ]
-      }
-    ],
-    "hoax": [
-      {
-        "name": "Deliberate fabrication",
-        "description": "Family invented story as hoax or prank",
-        "proponents": ["Some skeptics"],
-        "evidence_cited": [
-          "No physical evidence of creatures",
-          "Sensational nature of story"
-        ],
-        "criticisms": [
-          "No apparent motive - family shunned publicity",
-          "Police confirmed genuine fear",
-          "Witnesses maintained story for life without profiting",
-          "Children included - difficult to maintain hoax",
-          "No witness ever recanted or admitted hoax"
-        ]
-      }
-    ],
-    "unknown": [
-      {
-        "name": "Unexplained encounter",
-        "description": "Something unusual occurred, but nature remains unknown",
-        "proponents": ["Open-minded researchers"],
-        "evidence_cited": [
-          "Credible witnesses",
-          "Consistent testimony",
-          "Genuine fear",
-          "Lack of satisfactory conventional explanation"
-        ]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
-  "cultural_impact": {
-    "immediate": {
-      "media_coverage": "Extensive newspaper and radio coverage in 1955",
-      "public_reaction": "Curiosity seekers visited farmhouse (family eventually moved)",
-      "local_impact": "Kelly, Kentucky became associated with incident"
-    },
-    "long_term": {
-      "ufo_history": "One of most famous early alien encounter cases",
-      "influence": "Early description of large-eyed humanoids, predates common 'grey alien' archetype",
-      "annual_event": "Kelly Little Green Men Days festival held annually",
-      "tourism": "Incident brings visitors to Kelly, Kentucky"
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "references": [
-        "Featured in numerous UFO books and documentaries",
-        "Influenced alien creature designs in fiction",
-        "Subject of paranormal investigations and TV shows",
-        "Annual festival celebrates incident"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "witness_accounts": {
-    "consistency": "Remarkably consistent across multiple witnesses and over decades",
-    "changes_over_time": "Minimal - witnesses maintained core story",
-    "public_statements": "Most witnesses avoided publicity, some gave occasional interviews",
-    "deathbed_accounts": "Witnesses who gave later interviews maintained story was true"
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "current_status": {
-    "classification": "Unexplained",
-    "evidence_level": "Medium - credible witnesses, consistent testimony, no physical evidence",
-    "researcher_consensus": "Divided - some favor owl explanation, others consider it unexplained",
-    "public_interest": "Remains popular in UFO literature and local Kentucky culture"
-  },
-
-  "sources": [
-    {
-      "id": "contemporary-1955",
-      "type": "newspaper",
-      "title": "Contemporary newspaper coverage",
-      "publication": "Kentucky New Era and other local papers",
-      "date": "1955-08",
-      "note": "Initial reporting of incident"
-    },
-    {
-      "id": "project-blue-book",
-      "type": "government_document",
-      "title": "Project Blue Book Case File",
-      "source": "US Air Force",
-      "date": "1955",
-      "note": "Official military UFO investigation"
-    },
-    {
-      "id": "leclet-2006",
-      "type": "article",
-      "title": "The Kelly-Hopkinsville Close Encounter",
-      "authors": ["Renaud Leclet"],
-      "publication": "Skeptical Inquirer",
-      "date": "2006",
-      "note": "Proposes great horned owl explanation"
-    },
-    {
-      "id": "ufo-researchers",
-      "type": "books",
-      "title": "Various UFO case study books",
-      "note": "Multiple researchers have written about incident"
-    }
-  ]
+  "sources": []
 }
