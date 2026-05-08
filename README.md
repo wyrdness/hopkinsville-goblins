@@ -1,501 +1,200 @@
 # Hopkinsville Goblins
 
-> *"They weren't like anything we'd ever seen before."* — Witness statement
+> A 1955 close-encounter case in which the Sutton family and visitor Billy Ray Taylor reported, near Kelly, Kentucky, a landed object and small humanoid creatures who besieged a farmhouse for several hours, in one of the most-investigated UFO incidents of the period.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-unexplained-yellow)]()
-[![Witnesses](https://img.shields.io/badge/witnesses-7+-blue)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-1-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `hopkinsville-goblins` |
-| **Category** | UFO_UAP / CRYPTID |
-| **Classification** | Close Encounter of the Third Kind (CE3) |
-| **Date** | August 21, 1955 |
-| **Location** | Kelly-Hopkinsville, Kentucky, USA |
-| **Witnesses** | 7+ (Sutton and Taylor families) |
-| **Status** | UNEXPLAINED |
+| **Category** | UFO_UAP |
+| **Subcategory** | Close encounter of the third kind |
+| **First recorded** | 1955-08-21 |
+| **Primary range** | A single, geographically localised incident at the Sutton/Lankford farm between Kelly and Hopkinsville in Christian County, Kentucky |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky. Members of the Sutton and Taylor families (7+ witnesses) reported that small, 3-4 foot tall beings with large eyes, long arms, and silvery/metallic appearance approached the house after a landed craft was observed.
+The Hopkinsville goblins case — formally the Kelly–Hopkinsville encounter — is one of the most thoroughly documented close-encounter cases of the post-war UFO era. On the night of 21–22 August 1955, members of the Sutton family and visitor Billy Ray Taylor reported a landed luminous object near the farmhouse of Glennie Lankford, between Kelly and Hopkinsville in Christian County, Kentucky, followed by repeated appearances at doors and windows of small humanoid beings — about 2–4 feet tall, with large pointed ears, claw-like hands, glowing yellow eyes, and a silvery, metallic appearance. The men fired shotguns and rifles at the creatures repeatedly over roughly four hours, with apparently no effect: the beings reportedly somersaulted, glided down from trees, and showed no sign of being injured. After midnight the family fled in two cars to the Hopkinsville police station; police, sheriff's deputies, state troopers, and military police from nearby Fort Campbell investigated the farm and found broken windows and damaged screens but no physical creatures. The U.S. Air Force's Project Blue Book classified the incident as a hoax, although the rural-poor witnesses showed no obvious motive and stuck to their accounts for the rest of their lives. Folklorist and skeptical investigator Joe Nickell later argued that great horned owls — defending nests and aggressively territorial in late August — best explain the witnesses' descriptions, with meteor activity that night accounting for the initial 'craft' sighting. The case is widely credited as a major source of the modern 'little green men' iconography of UFO and alien folklore.
 
-The families shot at the creatures multiple times with firearms, but the beings seemed unaffected and continued approaching windows and the roof. The encounter lasted several hours. Police investigation found no physical evidence but witnesses were clearly terrified.
+---
+## Names & Aliases
 
-The incident remains **unexplained**, with proposed explanations including great horned owls, mass hysteria, or genuine unknown encounter. Witnesses maintained their story for life.
+| Name | Origin | Meaning |
+|---|---|---|
+| Kelly–Hopkinsville encounter | Christian County, Kentucky, USA |  |
+| Kelly Little Green Men | Popular usage, USA |  |
+| Sutton farmhouse incident | Christian County, Kentucky, USA |  |
+
+## Etymology
+
+- **Origin**: Named for Hopkinsville, Kentucky (the nearest sizeable town to the Sutton farm) and for the small humanoid 'goblin' beings described by the witnesses.
+- **Meaning**: 'Goblins' was the journalistic shorthand quickly applied to the small humanoid figures.
+- **First use**: Used in regional Kentucky press in late August 1955.
+
+---
+## Related Phenomena
+
+- [Betty and Barney Hill abduction](../betty-and-barney-hill/) — _similar_: Mid-20th-century US close-encounter / abduction case
+- [Pascagoula abduction](../pascagoula-abduction/) — _similar_: Mississippi close-encounter case (1973)
+- [Flatwoods Monster](../flatwoods-monster/) — _similar_: 1952 West Virginia close-encounter case with humanoid entity
+- [Little green men trope](../little-green-men/) — _related_: UFO popular-culture trope strongly influenced by the Hopkinsville case
+
+---
+## Physical Description
+
+- **Height**: 0.6–1.2 meters _(low confidence)_
+- **Coloration**: silvery, metallic, luminous, later accounts add 'green'
+- **Morphology**: Small humanoid bipeds with disproportionately large heads, large eyes, long arms, spindly legs, and a silvery metallic appearance.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Small humanoid form | Approximately 2–4 feet (about 0.6–1.2 m) tall | always |
+| Large round head with pointed ears | Witnesses described disproportionately large heads with prominent pointed ears | common |
+| Large yellow glowing eyes | Glowing yellow eyes are emphasised in nearly all accounts | common |
+| Claw-like hands and long arms | Long arms ending in clawed hands; hands described as raised in 'surrender' postures when the men aimed weapons | common |
+| Spindly legs | Thin, spindly legs | common |
+| Apparent invulnerability to gunfire | Multiple direct shots from shotguns and a .22 rifle reportedly failed to harm the creatures, which reacted as if struck by a hand and then continued | always |
+| Glide / float locomotion | Reported to descend slowly from trees and rooftops as if floating | occasional |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Apparent imperviousness to firearms | Repeatedly hit with shotgun and rifle fire without sustaining apparent injury | always | reported |
+| Levitation / gliding | Witnesses described the beings drifting down from trees and rooftops | occasional | reported |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: curious
+- **Social structure**: pack
+- **Habitat**: rural farmhouse environs, wooded fields
+- **Diet**: Not described.
+
+---
+## Distribution
+
+A single, geographically localised incident at the Sutton/Lankford farm between Kelly and Hopkinsville in Christian County, Kentucky.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Sutton/Lankford farmhouse | Kentucky, United States |  | 1955-08-21 to 1955-08-22 |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1955-08-21 | Around 19:00, Billy Ray Taylor reportedly sees a luminous object descend into a gully behind the Sutton/Lankford farmhouse near Kelly, Kentucky | Initial 'craft' sighting opening the encounter |
+| 1955-08-21 | Around 20:00–00:30, members of the Sutton family and visitors fire repeatedly at small luminous humanoid beings that appear at the farmhouse's doors, windows, and roof for about four hours | Core encounter event |
+| 1955-08-22 | Around 00:30, the families flee to the Hopkinsville police station; police, sheriff's deputies, state troopers, and military police from Fort Campbell investigate the farm | First-line documentation of the case |
+| 1955-08-22 | Around 03:30, witnesses report briefly seeing the beings again at the farmhouse before dawn | Final phase of the encounter |
+| 1955-08-23 | U.S. Air Force Project Blue Book classifies the case as a hoax | Official military disposition of the case |
+
+---
+## Notable Sightings
+
+### Sutton farm encounter ⭐
+> **Date**: 1955-08-21  
+> **Location**: Sutton/Lankford farmhouse between Kelly and Hopkinsville, Christian County, Kentucky  
+> **Witnesses**: 7 (Sutton family, Glennie Lankford and her children, Billy Ray Taylor and his wife June Taylor)  
+> **Evidence**: Police, sheriff's, state-police, and Air Police statements; Damaged screens and windows; Reported 'luminous patch' on grass  
+Beginning shortly after Billy Ray Taylor's report of a luminous object landing in a gully near the farmhouse, members of the Sutton family and the Taylors reported repeated appearances of small humanoid figures — about 2–4 feet tall, with large yellow eyes, large pointed ears, claw-like hands, and a silvery metallic appearance — at the doors, windows, and roof of the farmhouse. The men fired shotguns and a .22 rifle through the windows and doors over the course of roughly four hours; the creatures appeared to be struck and to react as if hit by a hand, but were not visibly injured and continued returning. After midnight the families fled to the Hopkinsville police station. Police and military police investigated and found broken windows, damaged screens, and a 'luminous patch' on the grass, but no creatures. The witnesses' accounts were broadly consistent and stable across decades.
+**Credibility**: medium — One of the best-documented mid-20th-century close-encounter cases; the underlying interpretation remains contested.
+**Sources**: Davis & Bloecher (1978), Close Encounter at Kelly and Others of 1955; Nickell, J. (2006), Skeptical Inquirer; Project Blue Book file on the case
 
 ---
 
-## The Incident
 
-### Date & Time
+## Evidence
 
-- **Night of**: August 21-22, 1955
-- **Duration**: Approximately 7:00 PM - 11:00 PM (several hours)
-- **Follow-up**: Creatures allegedly returned briefly after police left
+### Physical
 
-### Location
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Damaged screens and windows at the Sutton farmhouse | 1955-08-22 | Police investigators found damaged window screens and broken windows at the farmhouse, consistent with shots fired by the witnesses through openings. | verified |
+### Trace
 
-- **Farmhouse**: Sutton family farm
-- **Area**: Between Kelly and Hopkinsville, Christian County, Kentucky
-- **Setting**: Rural, isolated farmhouse
-- **Distance from town**: Several miles from Hopkinsville
+| Name | Date | Description | Status |
+|---|---|---|---|
+| 'Luminous patch' on grass | 1955-08-22 | A reported faintly luminous patch of grass observed by police investigators in the early hours of 22 August. | unverified |
+### Documentary
 
-### Witnesses
-
-| Name | Relation | Notes |
-|------|----------|-------|
-| Elmer "Lucky" Sutton | Family head | Primary witness |
-| Billy Ray Taylor | Friend visiting | First to see UFO |
-| Glennie Langford | Matriarch | Sutton's mother |
-| Various family members | Adults & children | 7+ total witnesses |
-
-**Credibility factors**:
-- ✅ Multiple adult witnesses
-- ✅ Included children (harder to coordinate hoax)
-- ✅ Consistent testimony
-- ✅ Police confirmed genuine fear
-- ✅ No apparent motive for hoax
-- ✅ Stable community members
-- ✅ Maintained story for life
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Project Blue Book file on the Kelly–Hopkinsville encounter | 1955 | U.S. Air Force file documenting the case and classifying it as a hoax. | disputed |
 
 ---
-
-## Timeline of Events
-
-### 7:00 PM — Initial UFO Sighting
-
-Billy Ray Taylor stepped outside and observed a bright object land in a gully behind the farmhouse. He reported it to others inside, who were skeptical.
-
-### 8:00 PM — First Creature Appears
-
-A small, silvery creature approached the house. Taylor and Sutton grabbed rifles and shot at it. The creature appeared unaffected and retreated.
-
-### 8:00 PM - 11:00 PM — Extended Siege
-
-Over the next several hours:
-- Creatures repeatedly approached the house
-- Appeared at windows
-- Climbed on the roof
-- Family fired numerous shots
-- Beings seemed immune to gunfire
-- Creatures would "float" away when shot
-- No sounds from the creatures
-- Persistent but not overtly aggressive
-
-### 11:00 PM — Flight to Police
-
-Terrified, all family members piled into vehicles and drove to Hopkinsville police station to report the incident.
-
-### Late Night — Police Investigation
-
-Multiple police officers investigated the farmhouse:
-- Found bullet holes and spent shells (confirmed gunfire)
-- Found no creatures, bodies, or remains
-- Found no unusual tracks or footprints
-- Confirmed witnesses were genuinely terrified
-- Confirmed witnesses were not intoxicated
-- Found no evidence of hoax
-
-### Early Morning — Alleged Return
-
-After police departed, witnesses reported the creatures briefly returned before disappearing for good.
-
----
-
-## Description of the Creatures
-
-### Physical Appearance
-
-| Feature | Description |
-|---------|-------------|
-| **Height** | 3-4 feet tall (0.9-1.2 meters) |
-| **Skin** | Silvery, metallic appearance, faintly glowing |
-| **Eyes** | Very large, yellow or amber colored |
-| **Head** | Large relative to body, somewhat pointed at top |
-| **Ears** | Large, pointed, bat-like or elephant-like |
-| **Arms** | Disproportionately long, extended below knees, thin |
-| **Hands** | Claw-like or talon-like appendages |
-| **Legs** | Thin, unusual movement |
-| **Body** | Small, thin torso |
-
-### Behavior
-
-**Movement**:
-- Approached house slowly
-- "Floated" when shot at
-- Climbed on roof
-- Peered in windows
-- Raised arms above head when frightened
-
-**Actions**:
-- Approached repeatedly despite gunfire
-- Seemed curious about occupants
-- No apparent hostility
-- Did not attempt to enter house
-- Retreated when shot, then returned
-
-**Sounds**: No vocalizations reported
-
-### Anomalous Characteristics
-
-- ⚠️ Seemed immune to gunfire
-- ⚠️ Floated or moved unusually when hit
-- ⚠️ Glowing/luminescent appearance
-- ⚠️ Movement unlike known animals
-
----
-
-## The Police Investigation
-
-### Response
-
-- **Agency**: Hopkinsville Police Department
-- **Officers**: Multiple officers responded
-- **Time**: Late night, August 21, 1955
-
-### Findings
-
-✅ **Confirmed**:
-- Bullet holes throughout house and property
-- Spent shell casings (extensive gunfire occurred)
-- Witnesses genuinely terrified, sincere
-- Witnesses sober (not intoxicated)
-- No evidence of hoax behavior
-
-❌ **Not Found**:
-- No creatures, bodies, or remains
-- No unusual tracks or footprints
-- No physical evidence of beings
-- No UFO in gully
-
-### Police Conclusion
-
-Officers found no physical evidence of creatures but believed witnesses experienced something that genuinely terrified them. No charges filed, no hoax suspected.
-
----
-
-## Evidence Analysis
-
-### Physical Evidence
-
-| Type | Status | Significance |
-|------|--------|--------------|
-| Bullet holes | ✅ Confirmed | Proves gunfire occurred |
-| Spent shells | ✅ Confirmed | Corroborates witness accounts |
-| Witness terror | ✅ Confirmed | Police documented genuine fear |
-| Creatures/remains | ❌ Not found | No physical proof of entities |
-| Tracks/footprints | ❌ Not found | No ground trace evidence |
-| UFO/craft | ❌ Not found | Landing not verified |
-
-### Witness Credibility
-
-**Strengths**:
-- Multiple independent witnesses (7+)
-- Adults and children (different perspectives)
-- Consistent testimony across witnesses
-- Maintained story for decades without profiting
-- No apparent motive for hoax
-- Police confirmed sincerity
-- Experienced rural residents (not likely to misidentify owls)
-
-**Weaknesses**:
-- No physical evidence of entities
-- Stressful, dark conditions
-- Only witnesses saw creatures (police did not)
-
----
-
 ## Theories & Explanations
 
-### 1. Great Horned Owls (Skeptical Explanation)
+### Paranormal / Cryptozoological
 
-**Proposed by**: Renaud Leclet (2006, Skeptical Inquirer)
+**Genuine close encounter** _(Isabel Davis, Ted Bloecher, Various civilian UFO researchers)_
 
-**The Theory**: Witnesses encountered aggressive great horned owls defending their territory and misidentified them in darkness and fear.
+The witnesses encountered a landed craft and small humanoid beings of unknown origin, the case constituting a textbook close encounter of the third kind.
 
-**Supporting Evidence**:
-- ✅ Great horned owls have large yellow eyes
-- ✅ Can appear silvery in moonlight
-- ✅ Have ear tufts (pointed "ears")
-- ✅ Extremely aggressive when defending nests
-- ✅ Talons resemble claws
-- ✅ Largely immune to small caliber gunfire at distance
-- ✅ Nocturnal activity matches timing
-- ✅ Can appear 3-4 feet tall in flight or on fence
+### Skeptical
 
-**Criticisms**:
-- ❌ Witnesses were experienced hunters (should recognize owls)
-- ❌ Description includes non-owl features (silvery skin, long arms)
-- ❌ Several hours seems long for owl encounter
-- ❌ Multiple creatures reported simultaneously
-- ❌ Behavior (peering in windows, climbing roof) not typical of owls
-- ❌ Witnesses insisted creatures were not animals
+**Great horned owls in defensive territorial behaviour** _(Joe Nickell)_
 
-**Credibility**: Plausible but disputed
+Joe Nickell argues that the witnesses' descriptions — small size, large yellow eyes, prominent ear-tufts, silent flight, claw-like hands raised in 'surrender' postures, and apparent imperviousness to small-arms fire fired through screens at distance and in the dark — are best explained by great horned owls defending nests near the farmhouse, with meteor activity that night accounting for the initial 'craft' sighting.
 
----
+**Mass hysteria / panic** _(Various skeptical commentators)_
 
-### 2. Genuine Unknown Encounter
+Some commentators have argued that the entire encounter is best explained by a self-reinforcing panic among the family, kicked off by Taylor's initial 'craft' report and amplified by darkness, gunfire, and loud noise.
 
-**The Theory**: Witnesses encountered genuinely unknown entities, possibly extraterrestrial.
 
-**Supporting Evidence**:
-- Initial UFO sighting
-- Unusual appearance not matching known animals
-- Anomalous behavior (immunity to bullets, floating)
-- Multiple credible witnesses
-- Consistent testimony over decades
-- No satisfactory conventional explanation
+## Popular Culture
 
-**Criticisms**:
-- No physical evidence
-- Extraordinary claim requires extraordinary evidence
-- Other explanations possible
+**Literature**: Close Encounter at Kelly and Others of 1955 — Isabel Davis & Ted Bloecher (Center for UFO Studies, 1978)
 
-**Credibility**: Unexplained, open question
+**Film / TV**: Episodes of UFO and unexplained-phenomena documentary series, including History Channel and Travel Channel productions; M. Night Shyamalan's Signs (2002) is widely thought to draw on the Hopkinsville case for its farmhouse-siege scenario
+
+**Other**: Annual 'Little Green Men Days' festival in Kelly, Kentucky (since 2005)
 
 ---
+## Research
 
-### 3. Mass Hysteria
+### Researchers
 
-**The Theory**: Initial misidentification escalated into shared delusion among frightened family.
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Isabel Davis | Civilian UFO researcher | Co-authored the foundational 1978 monograph on the case | 1950s–1970s |
+| Ted Bloecher | Center for UFO Studies (CUFOS) | Co-authored the foundational 1978 monograph on the case | 1970s |
+| Joe Nickell | Committee for Skeptical Inquiry / Skeptical Inquirer | Most-cited skeptical reanalysis of the case as misidentified great horned owls | 2000s |
 
-**Supporting Evidence**:
-- Dark, stressful situation
-- Fear contagious in group settings
-- Expectation after initial report
+### Organizations
 
-**Criticisms**:
-- Too many specific consistent details
-- Witnesses included level-headed adults
-- Physical evidence of extensive gunfire
-- Hysteria doesn't explain initial sighting
+- [Center for UFO Studies (CUFOS)](https://www.cufos.org) — Civilian UFO research and archives, including the Kelly–Hopkinsville case
+- [Committee for Skeptical Inquiry (CSI)](https://skepticalinquirer.org) — Skeptical investigation of paranormal claims, including Joe Nickell's Hopkinsville analysis
 
-**Credibility**: Weak explanation for this case
-
----
-
-### 4. Hoax
-
-**The Theory**: Family fabricated story as prank or for attention.
-
-**Supporting Evidence**:
-- No physical evidence of creatures
-- Sensational nature of story
-
-**Criticisms**:
-- ❌ No apparent motive (family avoided publicity)
-- ❌ Police confirmed genuine fear
-- ❌ Witnesses never profited from story
-- ❌ Children involved (harder to maintain)
-- ❌ Story maintained for life
-- ❌ No witness ever recanted
-- ❌ Family eventually moved due to unwanted attention
-
-**Credibility**: Very unlikely — all evidence points against hoax
+No active investigation of the original case; periodic re-examination in UFO and skeptical literature; community-level commemoration in Kelly, Kentucky.
 
 ---
+## Sources
 
-## Cultural Impact
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Immediate (1955)
 
-- **Media frenzy**: Extensive newspaper and radio coverage
-- **Curiosity seekers**: Farmhouse besieged by visitors
-- **Family impact**: Suttons eventually moved due to harassment
-- **Local notoriety**: Kelly, Kentucky associated with incident
+## How to Report a Sighting
 
-### Long-Term
-
-- **UFO history**: One of most famous early CE3 cases
-- **Alien archetype**: Early description of large-eyed humanoids (predates "grey" aliens)
-- **Annual festival**: "Kelly Little Green Men Days" held annually in Kelly
-- **Tourism**: Incident brings visitors to area
-- **Research**: Continues to be studied by UFO researchers
-
-### In Popular Culture
-
-- Featured in numerous UFO books and documentaries
-- Influenced alien creature designs in fiction
-- Subject of paranormal TV shows
-- Referenced in cryptozoology discussions
-- Annual celebration keeps memory alive
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## The Great Horned Owl Theory
-
-### Why Some Find It Convincing
-
-Great horned owls (*Bubo virginianus*) share surprising similarities with witness descriptions:
-
-**Physical matches**:
-- Large yellow eyes (most prominent owl feature)
-- "Ear" tufts (pointed projections)
-- 3-4 feet wingspan (could seem like height)
-- Talon claws (match "claw-like hands")
-- Can appear silvery/metallic in moonlight
-
-**Behavioral matches**:
-- Extremely aggressive when defending nests (August is nesting season)
-- Nocturnal (active at night)
-- Silent approach
-- Largely unaffected by small arms fire at distance (dense feathers, bones)
-- Territorial behavior
-
-### Why Others Reject It
-
-**Witness expertise**:
-- Suttons were experienced rural residents and hunters
-- Should easily recognize owls
-
-**Description discrepancies**:
-- Witnesses described silvery skin, not feathers
-- Long arms extending below knees (owls don't have this)
-- Upright bipedal stance
-- Multiple beings simultaneously (owls usually solitary or pairs)
-
-**Behavior discrepancies**:
-- Peering in windows (unusual for owls)
-- Climbing on roof
-- Extended several-hour encounter
-- Persistent return after being shot at
-
-**Witness insistence**: All witnesses adamant creatures were not animals they'd ever seen.
-
----
-
-## Witness Testimony Over Time
-
-### Consistency
-
-Remarkably consistent across:
-- Multiple witnesses (7+ people)
-- Decades of time
-- Different interviews
-- Various investigators
-
-### Changes
-
-Minimal — core story remained the same throughout witnesses' lives.
-
-### Public Statements
-
-- Most witnesses avoided publicity
-- Some gave occasional interviews in later years
-- Never profited from story
-- Never recanted
-
-### Deathbed Accounts
-
-Witnesses who lived long enough to give later-life interviews maintained the story was absolutely true.
-
----
-
-## Current Status
-
-**Classification**: UNEXPLAINED
-
-**Evidence Assessment**:
-- ✅ Credible multiple witnesses
-- ✅ Consistent testimony
-- ✅ Documented genuine fear
-- ✅ Physical evidence of gunfire
-- ❌ No physical evidence of entities
-- ❌ No corroborating physical traces
-
-**Researcher Consensus**: Divided
-- **Skeptics**: Great horned owl misidentification most likely
-- **UFO researchers**: Genuine unexplained encounter
-- **Open-minded**: Insufficient evidence for definitive conclusion
-
-**Public Interest**: Remains popular in UFO literature and local Kentucky culture
-
----
-
-## Why This Case Matters
-
-### Historical Significance
-
-1. **Early CE3**: One of first well-documented close encounter cases
-2. **Multiple witnesses**: Rare to have so many credible witnesses
-3. **Police documentation**: Official investigation adds credibility
-4. **Consistency**: Witnesses never wavered over decades
-5. **Alien archetype**: Description influenced later UFO reports
-
-### Ongoing Mystery
-
-Unlike many UFO cases:
-- ✅ Not easily dismissed as hoax
-- ✅ Witnesses remained credible
-- ✅ No satisfactory complete explanation
-- ✅ Physical evidence (gunfire) confirms something happened
-- ❓ Question remains: What did they actually see?
-
----
-
-## Visiting Kelly, Kentucky
-
-### Annual Festival
-
-**Kelly Little Green Men Days**
-- Held annually in August
-- Celebrates the 1955 incident
-- Features speakers, vendors, activities
-- Tourist attraction for UFO enthusiasts
-
-### Historical Sites
-
-- Original farmhouse location (private property)
-- Kelly, Kentucky (small community)
-- Hopkinsville (nearby city)
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/hopkinsville-goblins/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-
-- Contemporary newspaper coverage (1955)
-- US Air Force Project Blue Book case file
-- Leclet, R. (2006). "The Kelly-Hopkinsville Close Encounter." *Skeptical Inquirer*
-- Various UFO researcher case studies
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

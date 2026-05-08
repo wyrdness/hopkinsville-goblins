@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/hopkinsville-goblins",
     "maintainers": [
       {
@@ -16,111 +16,279 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "hopkinsville-goblins",
     "name": "Hopkinsville Goblins",
-    "aliases": [],
-    "category": "|_UFO_UAP_/_CRYPTID_|",
-    "subcategory": "Description influenced later UFO reports",
+    "aliases": [
+      { "name": "Kelly–Hopkinsville encounter", "region": "Christian County, Kentucky, USA" },
+      { "name": "Kelly Little Green Men", "region": "Popular usage, USA" },
+      { "name": "Sutton farmhouse incident", "region": "Christian County, Kentucky, USA" }
+    ],
+    "category": "UFO_UAP",
+    "subcategory": "Close encounter of the third kind",
     "tags": [
-      "folklore",
-      "mythology"
+      "ufo",
+      "close-encounter",
+      "kentucky",
+      "1955",
+      "project-blue-book",
+      "humanoid-entities",
+      "little-green-men"
     ],
     "status": "documented",
     "description": {
-      "summary": "The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky.",
-      "full": "The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky. Members of the Sutton and Taylor families (7+ witnesses) reported that small, 3-4 foot tall beings with large eyes, long arms, and silvery/metallic appearance approached the house after a landed craft was observed. The families shot at the creatures multiple times with firearms, but the beings seemed unaffected and continued approaching windows and the roof. The encounter lasted several hours. Police investigation found no physical evidence but witnesses were clearly terrified. The incident remains **unexplained**, with proposed explanations including great horned owls, mass hysteria, or genuine unknown encounter. Witnesses maintained their story for life."
+      "summary": "A 1955 close-encounter case in which the Sutton family and visitor Billy Ray Taylor reported, near Kelly, Kentucky, a landed object and small humanoid creatures who besieged a farmhouse for several hours, in one of the most-investigated UFO incidents of the period.",
+      "full": "The Hopkinsville goblins case — formally the Kelly–Hopkinsville encounter — is one of the most thoroughly documented close-encounter cases of the post-war UFO era. On the night of 21–22 August 1955, members of the Sutton family and visitor Billy Ray Taylor reported a landed luminous object near the farmhouse of Glennie Lankford, between Kelly and Hopkinsville in Christian County, Kentucky, followed by repeated appearances at doors and windows of small humanoid beings — about 2–4 feet tall, with large pointed ears, claw-like hands, glowing yellow eyes, and a silvery, metallic appearance. The men fired shotguns and rifles at the creatures repeatedly over roughly four hours, with apparently no effect: the beings reportedly somersaulted, glided down from trees, and showed no sign of being injured. After midnight the family fled in two cars to the Hopkinsville police station; police, sheriff's deputies, state troopers, and military police from nearby Fort Campbell investigated the farm and found broken windows and damaged screens but no physical creatures. The U.S. Air Force's Project Blue Book classified the incident as a hoax, although the rural-poor witnesses showed no obvious motive and stuck to their accounts for the rest of their lives. Folklorist and skeptical investigator Joe Nickell later argued that great horned owls — defending nests and aggressively territorial in late August — best explain the witnesses' descriptions, with meteor activity that night accounting for the initial 'craft' sighting. The case is widely credited as a major source of the modern 'little green men' iconography of UFO and alien folklore."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Named for Hopkinsville, Kentucky (the nearest sizeable town to the Sutton farm) and for the small humanoid 'goblin' beings described by the witnesses.",
+      "meaning": "'Goblins' was the journalistic shorthand quickly applied to the small humanoid figures.",
+      "first_use": "Used in regional Kentucky press in late August 1955."
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "|_UFO_UAP_/_CRYPTID_|",
-      "type": "Description influenced later UFO reports",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "UFO_UAP",
+      "type": "Close encounter of the third kind",
+      "subtype": "Humanoid entity encounter",
+      "variant": "1955 Sutton farmhouse incident, Kentucky"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "betty-and-barney-hill", "name": "Betty and Barney Hill abduction", "relationship": "similar", "description": "Mid-20th-century US close-encounter / abduction case" },
+      { "id": "pascagoula-abduction", "name": "Pascagoula abduction", "relationship": "similar", "description": "Mississippi close-encounter case (1973)" },
+      { "id": "flatwoods-monster", "name": "Flatwoods Monster", "relationship": "similar", "description": "1952 West Virginia close-encounter case with humanoid entity" },
+      { "id": "little-green-men", "name": "Little green men trope", "relationship": "related", "description": "UFO popular-culture trope strongly influenced by the Hopkinsville case" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "height": { "min": 0.6, "max": 1.2, "unit": "meters", "confidence": "low" },
+      "coloration": ["silvery", "metallic", "luminous", "later accounts add 'green'"],
+      "features": [
+        { "feature": "Small humanoid form", "description": "Approximately 2–4 feet (about 0.6–1.2 m) tall", "frequency": "always" },
+        { "feature": "Large round head with pointed ears", "description": "Witnesses described disproportionately large heads with prominent pointed ears", "frequency": "common" },
+        { "feature": "Large yellow glowing eyes", "description": "Glowing yellow eyes are emphasised in nearly all accounts", "frequency": "common" },
+        { "feature": "Claw-like hands and long arms", "description": "Long arms ending in clawed hands; hands described as raised in 'surrender' postures when the men aimed weapons", "frequency": "common" },
+        { "feature": "Spindly legs", "description": "Thin, spindly legs", "frequency": "common" },
+        { "feature": "Apparent invulnerability to gunfire", "description": "Multiple direct shots from shotguns and a .22 rifle reportedly failed to harm the creatures, which reacted as if struck by a hand and then continued", "frequency": "always" },
+        { "feature": "Glide / float locomotion", "description": "Reported to descend slowly from trees and rooftops as if floating", "frequency": "occasional" }
+      ],
+      "morphology": "Small humanoid bipeds with disproportionately large heads, large eyes, long arms, spindly legs, and a silvery metallic appearance."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Apparent imperviousness to firearms", "description": "Repeatedly hit with shotgun and rifle fire without sustaining apparent injury", "frequency": "always", "evidence_level": "reported" },
+      { "ability": "Levitation / gliding", "description": "Witnesses described the beings drifting down from trees and rooftops", "frequency": "occasional", "evidence_level": "reported" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "curious",
+      "social_structure": "pack",
+      "habitat_preference": ["rural farmhouse environs", "wooded fields"],
+      "diet": "Not described.",
+      "patterns": [
+        "Repeatedly approached doors and windows of the Sutton farmhouse",
+        "Did not enter the house at any point during the encounter",
+        "Active for roughly four hours overnight and briefly again before dawn"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "A single, geographically localised incident at the Sutton/Lankford farm between Kelly and Hopkinsville in Christian County, Kentucky.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Kentucky", "Christian County", "Kelly", "Hopkinsville"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Sutton/Lankford farmhouse",
+        "location": {
+          "description": "Glennie Lankford's farmhouse between Kelly and Hopkinsville, Christian County, Kentucky",
+          "country": "United States",
+          "region": "Kentucky",
+          "coordinates": { "latitude": 36.8669, "longitude": -87.4886 }
+        },
+        "peak_period": "1955-08-21 to 1955-08-22",
+        "notes": "Site of the encounter; commemorated by an annual 'Little Green Men Days' festival in Kelly, Kentucky."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1955-08-21",
+        "circa": false,
+        "source": "Witness accounts and police reports of the night of 21–22 August 1955"
+      },
+      "peak_activity_periods": [
+        { "period": "1955-08-21 to 1955-08-22", "description": "The encounter itself, lasting roughly four hours overnight with a brief follow-up at dawn" }
+      ],
+      "seasonal_patterns": "Single-event incident; the Kelly community now hosts an annual summer 'Little Green Men Days' festival commemorating it."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Mid-20th-century rural Kentucky farming community; the encounter occurred against the background of the post-Roswell 1947–55 wave of US UFO reporting and the popular culture of 'flying saucers'.",
+      "earliest_accounts": "Witness statements taken by Hopkinsville police, the Christian County sheriff's office, Kentucky State Police, and Air Police from nearby Fort Campbell on the night of 21–22 August and the following days.",
+      "folklore_connections": "One of the foundational cases of the modern 'little green men' folklore, alongside the 1947 Roswell incident and the 1952 Flatwoods Monster case."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1955-08-21", "event": "Around 19:00, Billy Ray Taylor reportedly sees a luminous object descend into a gully behind the Sutton/Lankford farmhouse near Kelly, Kentucky", "significance": "Initial 'craft' sighting opening the encounter", "source": "Witness statements; Wikipedia article on the Kelly–Hopkinsville encounter" },
+      { "date": "1955-08-21", "event": "Around 20:00–00:30, members of the Sutton family and visitors fire repeatedly at small luminous humanoid beings that appear at the farmhouse's doors, windows, and roof for about four hours", "significance": "Core encounter event", "source": "Witness statements; Wikipedia article on the Kelly–Hopkinsville encounter" },
+      { "date": "1955-08-22", "event": "Around 00:30, the families flee to the Hopkinsville police station; police, sheriff's deputies, state troopers, and military police from Fort Campbell investigate the farm", "significance": "First-line documentation of the case", "source": "Hopkinsville police records; Wikipedia article on the Kelly–Hopkinsville encounter" },
+      { "date": "1955-08-22", "event": "Around 03:30, witnesses report briefly seeing the beings again at the farmhouse before dawn", "significance": "Final phase of the encounter", "source": "Witness statements; Wikipedia article on the Kelly–Hopkinsville encounter" },
+      { "date": "1955-08-23", "event": "U.S. Air Force Project Blue Book classifies the case as a hoax", "significance": "Official military disposition of the case", "source": "Project Blue Book records; Wikipedia article on the Kelly–Hopkinsville encounter" }
+    ],
+    "modern_era": "The case has been re-examined by UFO researchers (notably Isabel Davis and Ted Bloecher in their 1978 study) and by skeptical investigators. The most-cited skeptical reanalysis is Joe Nickell's, which argues that great horned owls account for the witnesses' descriptions of small bug-eyed humanoids defending a tree-line at night. The town of Kelly, Kentucky has hosted an annual 'Little Green Men Days' festival since 2005, making the encounter an enduring local cultural touchstone."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 1,
       "verified": 0,
-      "disputed": 0,
-      "debunked": 0
+      "disputed": 1,
+      "debunked": 0,
+      "date_range": { "earliest": "1955-08-21", "latest": "1955-08-22" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "hopkinsville-sighting-1955-sutton-farm",
+        "name": "Sutton farm encounter",
+        "date": { "value": "1955-08-21", "precision": "exact" },
+        "location": {
+          "description": "Sutton/Lankford farmhouse between Kelly and Hopkinsville, Christian County, Kentucky",
+          "country": "United States",
+          "region": "Kentucky",
+          "locality": "Christian County (near Kelly)",
+          "coordinates": { "latitude": 36.8669, "longitude": -87.4886, "precision": "approximate" }
+        },
+        "witnesses": { "count": 7, "types": ["Sutton family", "Glennie Lankford and her children", "Billy Ray Taylor and his wife June Taylor"], "credibility_factors": ["Multiple independent adult witnesses", "Police, sheriff's, state-trooper, and Air Police involvement on the night", "Physical damage to windows and screens"] },
+        "description": "Beginning shortly after Billy Ray Taylor's report of a luminous object landing in a gully near the farmhouse, members of the Sutton family and the Taylors reported repeated appearances of small humanoid figures — about 2–4 feet tall, with large yellow eyes, large pointed ears, claw-like hands, and a silvery metallic appearance — at the doors, windows, and roof of the farmhouse. The men fired shotguns and a .22 rifle through the windows and doors over the course of roughly four hours; the creatures appeared to be struck and to react as if hit by a hand, but were not visibly injured and continued returning. After midnight the families fled to the Hopkinsville police station. Police and military police investigated and found broken windows, damaged screens, and a 'luminous patch' on the grass, but no creatures. The witnesses' accounts were broadly consistent and stable across decades.",
+        "conditions": { "weather": "Hot, late-summer rural Kentucky", "visibility": "Night with bright moonlight; fully dark with limited yard light at the farmhouse", "time_of_day": "Approximately 19:00 to 03:30", "duration": "Approximately 8 hours total, with a roughly 4-hour core encounter" },
+        "evidence": ["Police, sheriff's, state-police, and Air Police statements", "Damaged screens and windows", "Reported 'luminous patch' on grass"],
+        "credibility": { "rating": "medium", "factors": ["Multiple witnesses", "Immediate police involvement", "Stable witness testimony for life", "No obvious financial or social motive for hoax"], "notes": "One of the best-documented mid-20th-century close-encounter cases; the underlying interpretation remains contested." },
+        "sources": ["Davis & Bloecher (1978), Close Encounter at Kelly and Others of 1955", "Nickell, J. (2006), Skeptical Inquirer", "Project Blue Book file on the case"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
-    "physical": [],
+    "physical": [
+      {
+        "id": "hopkinsville-evidence-window-damage",
+        "type": "physical damage",
+        "name": "Damaged screens and windows at the Sutton farmhouse",
+        "date": "1955-08-22",
+        "description": "Police investigators found damaged window screens and broken windows at the farmhouse, consistent with shots fired by the witnesses through openings.",
+        "status": "verified",
+        "analysis": "Confirms that some violent activity took place at the farmhouse but does not, in itself, distinguish between encounter and other explanations.",
+        "source": "Hopkinsville police records; Davis & Bloecher (1978)"
+      }
+    ],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [
+      {
+        "id": "hopkinsville-evidence-luminous-patch",
+        "type": "ground feature",
+        "name": "'Luminous patch' on grass",
+        "date": "1955-08-22",
+        "description": "A reported faintly luminous patch of grass observed by police investigators in the early hours of 22 August.",
+        "status": "unverified",
+        "analysis": "Mentioned in some witness and investigator accounts; not subject to laboratory analysis.",
+        "source": "Davis & Bloecher (1978)"
+      }
+    ],
+    "documentary": [
+      {
+        "id": "hopkinsville-evidence-blue-book-file",
+        "type": "Air Force investigation",
+        "name": "Project Blue Book file on the Kelly–Hopkinsville encounter",
+        "date": "1955",
+        "description": "U.S. Air Force file documenting the case and classifying it as a hoax.",
+        "status": "disputed",
+        "analysis": "The 'hoax' classification has been contested by subsequent civilian researchers, while skeptical investigators have offered alternative natural-misidentification explanations.",
+        "source": "Project Blue Book records"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Genuine close encounter",
+        "description": "The witnesses encountered a landed craft and small humanoid beings of unknown origin, the case constituting a textbook close encounter of the third kind.",
+        "proponents": ["Isabel Davis", "Ted Bloecher", "Various civilian UFO researchers"],
+        "evidence_cited": ["Stable, consistent witness testimony", "Physical damage to the farmhouse", "Police and military police corroboration of the witnesses' state and the scene"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Great horned owls in defensive territorial behaviour",
+        "description": "Joe Nickell argues that the witnesses' descriptions — small size, large yellow eyes, prominent ear-tufts, silent flight, claw-like hands raised in 'surrender' postures, and apparent imperviousness to small-arms fire fired through screens at distance and in the dark — are best explained by great horned owls defending nests near the farmhouse, with meteor activity that night accounting for the initial 'craft' sighting.",
+        "proponents": ["Joe Nickell"],
+        "evidence_cited": ["Nesting and territorial behaviour of great horned owls (Bubo virginianus)", "Late-summer Perseid-related meteor activity", "Difficulty of accurately identifying small targets in the dark with iron-sighted long arms"]
+      },
+      {
+        "name": "Mass hysteria / panic",
+        "description": "Some commentators have argued that the entire encounter is best explained by a self-reinforcing panic among the family, kicked off by Taylor's initial 'craft' report and amplified by darkness, gunfire, and loud noise.",
+        "proponents": ["Various skeptical commentators"],
+        "evidence_cited": ["Inability of investigators to find any creatures or wreckage", "Project Blue Book hoax classification"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Mid-20th-century American 'little green men' folklore",
+        "Rural Kentucky storytelling tradition"
+      ],
+      "stories": [
+        "The Sutton family and the Taylors' siege of the farmhouse",
+        "The two cars fleeing to Hopkinsville police station",
+        "Witnesses' lifetime adherence to their accounts"
+      ],
+      "beliefs": "Locally taken seriously by many witnesses, neighbours, and law-enforcement officers; the Kelly community now embraces the legend as a cultural and tourism asset."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Close Encounter at Kelly and Others of 1955 — Isabel Davis & Ted Bloecher (Center for UFO Studies, 1978)"
+      ],
+      "film_tv": [
+        "Episodes of UFO and unexplained-phenomena documentary series, including History Channel and Travel Channel productions",
+        "M. Night Shyamalan's Signs (2002) is widely thought to draw on the Hopkinsville case for its farmhouse-siege scenario"
+      ],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Annual 'Little Green Men Days' festival in Kelly, Kentucky (since 2005)"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Isabel Davis", "affiliation": "Civilian UFO researcher", "contribution": "Co-authored the foundational 1978 monograph on the case", "period": "1950s–1970s" },
+      { "name": "Ted Bloecher", "affiliation": "Center for UFO Studies (CUFOS)", "contribution": "Co-authored the foundational 1978 monograph on the case", "period": "1970s" },
+      { "name": "Joe Nickell", "affiliation": "Committee for Skeptical Inquiry / Skeptical Inquirer", "contribution": "Most-cited skeptical reanalysis of the case as misidentified great horned owls", "period": "2000s" }
+    ],
+    "organizations": [
+      { "name": "Center for UFO Studies (CUFOS)", "url": "https://www.cufos.org", "focus": "Civilian UFO research and archives, including the Kelly–Hopkinsville case" },
+      { "name": "Committee for Skeptical Inquiry (CSI)", "url": "https://skepticalinquirer.org", "focus": "Skeptical investigation of paranormal claims, including Joe Nickell's Hopkinsville analysis" }
+    ],
+    "ongoing_studies": "No active investigation of the original case; periodic re-examination in UFO and skeptical literature; community-level commemoration in Kelly, Kentucky."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-kelly-hopkinsville-2026", "type": "website", "title": "Kelly–Hopkinsville encounter", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter", "accessed": "2026-05-07" },
+    { "id": "davis-bloecher-1978", "type": "book", "title": "Close Encounter at Kelly and Others of 1955", "authors": ["Isabel Davis", "Ted Bloecher"], "publication": "Center for UFO Studies (CUFOS)", "date": "1978" }
+  ]
 }
